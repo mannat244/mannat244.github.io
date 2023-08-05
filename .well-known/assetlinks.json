@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mannat.jeemainadv",
+      "sha256_cert_fingerprints":
+        ["B7:19:13:48:E3:F3:FC:16:18:77:1F:58:83:AF:39:CA:48:77:1B:90:8A:EA:04:32:46:32:40:55:18:50:7E:43"]
+    }
+  }
+]
